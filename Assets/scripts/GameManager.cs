@@ -56,5 +56,8 @@ public class GameManager : MonoBehaviour
 		
 		powerupReset = true;
 	}
-	
+	/*public void CloudTrot()
+	{
+		thePlayer.transform.position = playerStartPoint;
+	}*/
 }

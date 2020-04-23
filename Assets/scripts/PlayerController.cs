@@ -152,5 +152,12 @@ Vector2 needs to know (movement on X axis see 1, movement on the Y axis see 2)
  
 		} 
 	}
-
+	/*if(other.gameObject.tag == "spring")
+	{
+		
+	}
+	if (other.gameObject.tag == "mineshaft")
+	{
+		
+	}*/	
 }
